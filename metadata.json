@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Scheduler",
+  "description": "A streamlined mobile scheduler featuring today's chronological agenda and a horizontal carousel for upcoming days.",
+  "requestFramePermissions": []
+}
